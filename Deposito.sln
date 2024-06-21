@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepositoLibreria", "DepositoLibreria\DepositoLibreria.csproj", "{97BE85D5-7921-4DD0-8AE8-0FDFFDE5EC47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepositoLibreria", "DepositoLibreria\DepositoLibreria.csproj", "{97BE85D5-7921-4DD0-8AE8-0FDFFDE5EC47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaAplicacion", "LogicaAplicacion\LogicaAplicacion.csproj", "{82DDF1A4-370E-4E83-8D02-3ADD289EF262}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicaAplicacion", "LogicaAplicacion\LogicaAplicacion.csproj", "{82DDF1A4-370E-4E83-8D02-3ADD289EF262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{2E929325-5B03-4223-8D1A-C831469F0A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicaNegocio", "LogicaNegocio\LogicaNegocio.csproj", "{2E929325-5B03-4223-8D1A-C831469F0A25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{C2AD24C1-AF02-4D8E-926C-CD7FCB6EC254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{C2AD24C1-AF02-4D8E-926C-CD7FCB6EC254}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{9D487619-D281-46BA-91A0-9049CF235602}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
